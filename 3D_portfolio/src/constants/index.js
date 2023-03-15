@@ -1,20 +1,15 @@
 import {
     mobile,
     backend,
-    creator,
     web,
     javascript,
-    typescript,
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
-    docker,
     meta,
     starbucks,
     tesla,
@@ -22,7 +17,10 @@ import {
     carrent,
     jobit,
     tripguide,
-    threejs,
+    python,
+    sql,
+    java,
+    bootstrap
 } from "../assets";
 
 export const navLinks = [
@@ -46,17 +44,13 @@ const services = [
         icon: web,
     },
     {
-        title: "React Native Developer",
+        title: "ReactJs Developer",
         icon: mobile,
     },
     {
-        title: "Backend Developer",
+        title: "Backend/Frontend Developer",
         icon: backend,
-    },
-    {
-        title: "Content Creator",
-        icon: creator,
-    },
+    }
 ];
 
 const technologies = [
@@ -73,45 +67,41 @@ const technologies = [
         icon: javascript,
     },
     {
-        name: "TypeScript",
-        icon: typescript,
-    },
-    {
         name: "React JS",
         icon: reactjs,
-    },
-    {
-        name: "Redux Toolkit",
-        icon: redux,
-    },
-    {
-        name: "Tailwind CSS",
-        icon: tailwind,
-    },
-    {
-        name: "Node JS",
-        icon: nodejs,
     },
     {
         name: "MongoDB",
         icon: mongodb,
     },
     {
-        name: "Three JS",
-        icon: threejs,
+        name: "Node JS",
+        icon: nodejs,
+    },
+    {
+        name: "Tailwind CSS",
+        icon: tailwind,
+    },
+    {
+        name: "Bootstrap",
+        icon: bootstrap,
+    },
+    {
+        name: "Python",
+        icon: python,
+    },
+    {
+        name: "Java",
+        icon: java,
+    },
+    {
+        name: "MySQL",
+        icon: sql,
     },
     {
         name: "git",
         icon: git,
-    },
-    {
-        name: "figma",
-        icon: figma,
-    },
-    {
-        name: "docker",
-        icon: docker,
-    },
+    }
 ];
 
 const experiences = [

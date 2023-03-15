@@ -40,18 +40,19 @@ const About = () => {
         <>
             <motion.div variants={textVariant()}>
                 <p className={styles.sectionSubText}>Introduction</p>
-                <h2 className={styles.sectionHeadText}>Overview.</h2>
+                <h2 className={styles.sectionHeadText}>About Me.</h2>
             </motion.div>
 
             <motion.p
                 variants={fadeIn("", "", 0.1, 1)}
                 className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
             >
-                I'm a skilled software developer with experience in TypeScript and
-                JavaScript, and expertise in frameworks like React, Node.js, and
-                Three.js. I'm a quick learner and collaborate closely with clients to
-                create efficient, scalable, and user-friendly solutions that solve
-                real-world problems. Let's work together to bring your ideas to life!
+                I'm a Full-Stack developer based in the San Francisco Bay Area, I am originally from Brazil
+                and I moved to United States back in 2018, where 4 years later I would hear about the power of programming
+                and totally fell in love with web development. I enrolled in a coding bootcamp and completed the program in 2022,
+                acquiring the skills and knowledge necessary to excel in the field. I'm a quick learner and since graduation
+                I continue to further my skillset. My strongest passion lies in development and solving
+                real-world problems to provide value to the user. Let's work together to bring your ideas to life!
             </motion.p>
 
             <div className='mt-20 flex flex-wrap gap-10'>

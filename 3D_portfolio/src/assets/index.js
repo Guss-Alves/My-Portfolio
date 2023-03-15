@@ -19,8 +19,11 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from './tech/python.png'
+import sql from './tech/sql.png'
+import java from './tech/java.jpg'
+import bootstrap from './tech/Bootstrap.png'
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -52,7 +55,6 @@ export {
     reactjs,
     redux,
     tailwind,
-    typescript,
     threejs,
     meta,
     shopify,
@@ -61,4 +63,8 @@ export {
     carrent,
     jobit,
     tripguide,
+    python,
+    sql,
+    java,
+    bootstrap
 };
