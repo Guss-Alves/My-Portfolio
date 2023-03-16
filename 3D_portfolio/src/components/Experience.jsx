@@ -18,7 +18,7 @@ const Experience = () => {
                 </h2>
             </motion.div>
 
-            <motion.div variants={fadeIn("up", "spring")} className='mt-20 flex max-[480px]:flex-col flex max-[480px]:mt-10 justify-between'>
+            <motion.div variants={fadeIn("up", "spring", 0.75)} className='mt-20 flex max-[480px]:flex-col flex max-[480px]:mt-10 justify-between'>
                 <div className="languages">
                 <h2 className={`${styles.sectionHeadTextSub}`}>Languages</h2>
                     <ul className="mt-2 list-disc list-inside">

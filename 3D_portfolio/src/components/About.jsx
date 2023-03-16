@@ -47,7 +47,7 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
             >
-                I'm a Full-Stack developer based in the San Francisco Bay Area, I am originally from Brazil
+                I'm a Full-Stack developer located in the San Francisco Bay Area, I am originally from Brazil
                 and I moved to United States back in 2018, where 4 years later I would hear about the power of programming
                 and totally fell in love with web development. I enrolled in a coding bootcamp and completed the program in 2022,
                 acquiring the skills and knowledge necessary to excel in the field. I'm a quick learner and since graduation
