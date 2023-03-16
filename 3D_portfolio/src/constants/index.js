@@ -16,7 +16,9 @@ import {
     python,
     sql,
     java,
-    bootstrap
+    bootstrap,
+    finance,
+    gusbook
 } from "../assets";
 
 export const navLinks = [
@@ -131,7 +133,7 @@ const projects = [
     {
         name: "Gusbook",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Web-based social media(facebook clone), that allows users to make posts that support image upload, follow and unfollow friends, check their profiles and much more.",
         tags: [
             {
                 name: "react",
@@ -142,32 +144,40 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "cloudinary",
                 color: "pink-text-gradient",
             },
+            {
+                name: "Node.js",
+                color: "text-purple-400",
+            }
         ],
-        image: carrent,
+        image: gusbook,
         source_code_link: "https://github.com/Guss-Alves/social-media-app",
     },
     {
         name: "Finance Tracker",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Web application that enables users to keep track of all their expenses, also being able to separate them by many different categories, and analyse in a precise chart .",
         tags: [
             {
                 name: "react",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "mongodb",
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
+                name: "bootstrap",
                 color: "pink-text-gradient",
             },
+            {
+                name: "Node.js",
+                color: "text-purple-400",
+            }
         ],
-        image: jobit,
+        image: finance,
         source_code_link: "https://github.com/Guss-Alves/Finance-Tracker",
     },
     {
@@ -176,11 +186,11 @@ const projects = [
             "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
-                name: "nextjs",
+                name: "Spring mvc",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "restAPI",
                 color: "green-text-gradient",
             },
             {
