@@ -10,15 +10,14 @@ import {
     nodejs,
     mongodb,
     git,
-    carrent,
-    jobit,
     tripguide,
     python,
     sql,
     java,
     bootstrap,
     finance,
-    gusbook
+    gusbook,
+    weather
 } from "../assets";
 
 export const navLinks = [
@@ -183,7 +182,7 @@ const projects = [
     {
         name: "Weather App",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "A weather application built in Java using Spring Tool Suite, users can search for any city around the world, and get current information about weather conditions.",
         tags: [
             {
                 name: "Spring mvc",
@@ -198,7 +197,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
+        image:weather,
         source_code_link: "https://github.com/Guss-Alves/Weather-app",
     },
 ];

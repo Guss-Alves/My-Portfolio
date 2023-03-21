@@ -36,7 +36,6 @@ const Experience = () => {
                         <li className='text-white tracking-wider text-[18px] mt-1 '>Bootstrap</li>
                         <li className='text-white tracking-wider text-[18px] mt-1 '>Jinja2</li>
                         <li className='text-white tracking-wider text-[18px] mt-1 '>Material UI</li>
-                        <li className='text-white tracking-wider text-[18px] mt-1 '>JQuery</li>
                 </div>
                 <div className="languages">
                 <h2 className={`${styles.sectionHeadTextSub}  max-[480px]:mt-3`}>Backend</h2>
@@ -45,7 +44,6 @@ const Experience = () => {
                         <li className='text-white tracking-wider text-[18px] mt-1 '>Flask</li>
                         <li className='text-white tracking-wider text-[18px] mt-1 '>MySQL</li>
                         <li className='text-white tracking-wider text-[18px] mt-1 '>Express.js</li>
-                        <li className='text-white tracking-wider text-[18px] mt-1 '>Spring MVC</li>
                 </div>
             </motion.div>
         </>

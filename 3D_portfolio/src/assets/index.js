@@ -9,6 +9,7 @@ import close from "./close.svg";
 import gusLogo from './gusLogo.png';
 import gusbook from './gusbook.png'
 import finance from './finance.png'
+import weather from './weather.png'
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -70,5 +71,6 @@ export {
     java,
     bootstrap,
     finance,
-    gusbook
+    gusbook,
+    weather
 };
