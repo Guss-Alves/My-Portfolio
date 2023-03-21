@@ -28,15 +28,6 @@ import sql from './tech/sql.png'
 import java from './tech/java.jpg'
 import bootstrap from './tech/Bootstrap.png'
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 export {
     logo,
     gusLogo,
@@ -59,13 +50,6 @@ export {
     redux,
     tailwind,
     threejs,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    carrent,
-    jobit,
-    tripguide,
     python,
     sql,
     java,

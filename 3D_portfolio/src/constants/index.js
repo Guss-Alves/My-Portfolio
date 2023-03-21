@@ -10,7 +10,6 @@ import {
     nodejs,
     mongodb,
     git,
-    tripguide,
     python,
     sql,
     java,
