@@ -151,7 +151,7 @@ const projects = [
             }
         ],
         image: gusbook,
-        source_code_link: "https://github.com/Guss-Alves/social-media-app",
+        source_code_link: "https://github.com/Guss-Alves/social-media-app"
     },
     {
         name: "Finance Tracker",
@@ -177,6 +177,7 @@ const projects = [
         ],
         image: finance,
         source_code_link: "https://github.com/Guss-Alves/Finance-Tracker",
+        demo_link : "https://financemern.herokuapp.com/"
     },
     {
         name: "Weather App",

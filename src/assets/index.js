@@ -7,9 +7,10 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import gusLogo from './gusLogo.png';
-import gusbook from './gusbook.png'
-import finance from './finance.png'
-import weather from './weather.png'
+import gusbook from './gusbook.png';
+import finance from './finance.png';
+import weather from './weather.png';
+import live from './live.png';
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -56,5 +57,6 @@ export {
     bootstrap,
     finance,
     gusbook,
-    weather
+    weather,
+    live
 };
